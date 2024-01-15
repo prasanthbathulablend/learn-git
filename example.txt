@@ -1,1 +1,1 @@
-Hi This is an example file for testing.
+Hi This is an example file for testing. This file is now in tracking state. Now checking with staging area.
